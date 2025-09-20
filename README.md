@@ -1,9 +1,15 @@
-# Digit Recognition Mnist
+# MNIST Digit Recognition
 
-Recognize handwritten digits using neural networks (MNIST dataset).
+## Overview
+Neural Network model to recognize handwritten digits from the MNIST dataset.
 
-## Steps
-1. Load dataset
-2. Preprocess data
-3. Train model
-4. Evaluate model
+## Tech Stack
+- Python, TensorFlow/Keras, NumPy, Matplotlib
+
+## Results
+- Achieved >90% accuracy on test dataset
+
+## How to Run
+1. Clone the repo  
+2. Install requirements: pip install -r requirements.txt  
+3. Run: python main.py
